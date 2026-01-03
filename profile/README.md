@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/ACDSee_logo.png" width="200" alt="ACDSee macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/ACDSee">
+ <a href="https://gnomik-gomik-apps.github.io/.github/ACDSee">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open ACDSee macOS page">
  </a><br><br>
  <div align="center">
